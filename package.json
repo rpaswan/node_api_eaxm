@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rpaswan/node_api_eaxm/issues"
   },
-  "homepage": "https://github.com/rpaswan/node_api_eaxm#readme"
+  "homepage": "https://github.com/rpaswan/node_api_eaxm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
